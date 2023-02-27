@@ -16,7 +16,7 @@ This data pack should be compatible with multiplayer worlds, but has only been t
 
 # Adding This Data Pack to Your World
 
-You can download the latest version of the data pack [here](https://github.com/Piper1618/Anti-Lag-Sheep/releases/latest). The file you want will be named AntiLagSheep.zip
+You can download the latest version of the data pack [here](https://github.com/Piper1618/Anti-lag-Sheep/releases/latest). The file you want will be named AntiLagSheep.zip
 
 ## Existing Worlds
 
